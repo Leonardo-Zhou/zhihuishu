@@ -1,0 +1,12 @@
+//
+// Created by LeonardoZhou on 2022/2/22.
+//
+
+#include <stdio.h>
+
+int main(){
+    int x,y;
+    scanf("%d%d",&x,&y);
+    printf("%d %d\n",x/y,x%y);
+    return 0;
+}
